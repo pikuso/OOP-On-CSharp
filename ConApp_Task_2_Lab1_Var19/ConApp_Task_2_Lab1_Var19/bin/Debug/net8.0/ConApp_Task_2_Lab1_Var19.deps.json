@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConApp_Task_2_Lab1_Var19/1.0.0": {
+        "runtime": {
+          "ConApp_Task_2_Lab1_Var19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConApp_Task_2_Lab1_Var19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
