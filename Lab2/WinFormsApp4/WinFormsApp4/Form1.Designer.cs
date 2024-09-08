@@ -90,7 +90,7 @@
             // 
             buttonSubmit.Location = new Point(246, 187);
             buttonSubmit.Name = "buttonSubmit";
-            buttonSubmit.Size = new Size(75, 23);
+            buttonSubmit.Size = new Size(100, 28);
             buttonSubmit.TabIndex = 2;
             buttonSubmit.Text = "Підтвердити";
             buttonSubmit.UseVisualStyleBackColor = true;

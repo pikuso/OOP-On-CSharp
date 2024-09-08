@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConApp_Task_2_Lab1_Var19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53aaecc84be29fd35a8f8a669b9888b3249a53c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConApp_Task_2_Lab1_Var19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConApp_Task_2_Lab1_Var19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

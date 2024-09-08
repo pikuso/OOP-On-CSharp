@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gurig\\source\\repos\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj": {}
+    "D:\\source\\repos\\Labs\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gurig\\source\\repos\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj": {
+    "D:\\source\\repos\\Labs\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gurig\\source\\repos\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj",
         "projectName": "ConApp_Task_2_Lab1_Var19",
-        "projectPath": "C:\\Users\\gurig\\source\\repos\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gurig\\source\\repos\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\Lab1\\ConApp_Task_2_Lab1_Var19\\ConApp_Task_2_Lab1_Var19\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

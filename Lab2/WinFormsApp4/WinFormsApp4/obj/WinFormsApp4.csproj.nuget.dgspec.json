@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj": {}
+    "D:\\source\\repos\\Labs\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj": {
+    "D:\\source\\repos\\Labs\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
         "projectName": "WinFormsApp4",
-        "projectPath": "D:\\source\\repos\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\Lab2\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\Lab2\\WinFormsApp4\\WinFormsApp4\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\Lab2\\WinFormsApp4\\WinFormsApp4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

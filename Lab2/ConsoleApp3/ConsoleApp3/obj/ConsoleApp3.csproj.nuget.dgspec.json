@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "D:\\source\\repos\\Labs\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "D:\\source\\repos\\Labs\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "D:\\source\\repos\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\Lab2\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\Lab2\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\Lab2\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

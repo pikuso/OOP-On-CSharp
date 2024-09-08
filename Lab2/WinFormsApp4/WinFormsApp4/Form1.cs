@@ -5,7 +5,7 @@ namespace WinFormsApp4
         public Form1()
         {
             InitializeComponent();
-            labelError.Visible = false; 
+            labelError.Visible = false;
         }
 
         private void buttonSubmit_Click(object sender, EventArgs e)
@@ -31,7 +31,16 @@ namespace WinFormsApp4
 
             if (!IsValidDate(date2))
             {
-                ShowError("Invalid date format for 'Date 1'. Enter the date in the format DD.MM.RRRR.");
+                ShowError("Invalid date format for 'Date 2'. Enter the date in the format DD.MM.RRRR.");
+                return;
+            }
+
+            DateTime dateTime1 = DateTime.ParseExact(date1, "dd.MM.yyyy", null);
+            DateTime dateTime2 = DateTime.ParseExact(date2, "dd.MM.yyyy", null);
+
+            if (dateTime2 < dateTime1)
+            {
+                ShowError("The new date ('Date 2') cannot be earlier than the original date ('Date 1').");
                 return;
             }
 
