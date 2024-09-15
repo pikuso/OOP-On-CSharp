@@ -8,7 +8,6 @@ namespace Lab1_Task3
         public Form1()
         {
             InitializeComponent();
-            // Attach the event handler to the button
             buttonShowGreeting.Click += buttonShowGreeting_Click;
         }
 
