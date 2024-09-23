@@ -1,0 +1,16 @@
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\bin\Debug\net8.0-windows\HelloAppForm.exe
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\bin\Debug\net8.0-windows\HelloAppForm.deps.json
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\bin\Debug\net8.0-windows\HelloAppForm.runtimeconfig.json
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\bin\Debug\net8.0-windows\HelloAppForm.dll
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\bin\Debug\net8.0-windows\HelloAppForm.pdb
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.Form1.resources
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.csproj.GenerateResource.cache
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.AssemblyInfoInputs.cache
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.AssemblyInfo.cs
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.csproj.CoreCompileInputs.cache
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.dll
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\refint\HelloAppForm.dll
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.pdb
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\HelloAppForm.genruntimeconfig.cache
+C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\obj\Debug\net8.0-windows\ref\HelloAppForm.dll
