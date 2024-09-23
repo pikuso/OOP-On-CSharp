@@ -1,0 +1,15 @@
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\bin\Debug\net8.0\pw_Task1_Var19.exe
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\bin\Debug\net8.0\pw_Task1_Var19.deps.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\bin\Debug\net8.0\pw_Task1_Var19.runtimeconfig.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\bin\Debug\net8.0\pw_Task1_Var19.dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\bin\Debug\net8.0\pw_Task1_Var19.pdb
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.sourcelink.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\refint\pw_Task1_Var19.dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.pdb
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\pw_Task1_Var19.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Practice Work №3\pw_Task1_Var19\pw_Task1_Var19\obj\Debug\net8.0\ref\pw_Task1_Var19.dll
