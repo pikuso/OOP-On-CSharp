@@ -1,0 +1,17 @@
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3_1._1_.Form1.resources
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).csproj.GenerateResource.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).AssemblyInfo.cs
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).sourcelink.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\bin\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).exe
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\bin\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).deps.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\bin\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).runtimeconfig.json
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\bin\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\bin\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).pdb
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\refint\MainForm_Lab3_2_Task3(1.1).dll
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).pdb
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\MainForm_Lab3_2_Task3(1.1).genruntimeconfig.cache
+D:\source\repos\Labs\Topic 2-3 .Net data type model\Lab Work №3.2\MainForm_Lab3_2_Task3(1.1)\MainForm_Lab3_2_Task3(1.1)\obj\Debug\net8.0-windows\ref\MainForm_Lab3_2_Task3(1.1).dll
