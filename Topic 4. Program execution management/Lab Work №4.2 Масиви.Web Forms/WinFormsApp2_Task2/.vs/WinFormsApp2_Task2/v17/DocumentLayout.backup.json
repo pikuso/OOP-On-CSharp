@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 4. Program execution management\\Lab Work \u21164.2 \u041C\u0430\u0441\u0438\u0432\u0438.Web Forms\\WinFormsApp2_Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFD793B-6828-4840-B0B3-3F2DAB09B384}|WinFormsApp2_Task2\\WinFormsApp2_Task2.csproj|d:\\source\\repos\\labs\\topic 4. program execution management\\lab work \u21164.2 \u043C\u0430\u0441\u0438\u0432\u0438.web forms\\winformsapp2_task2\\winformsapp2_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFD793B-6828-4840-B0B3-3F2DAB09B384}|WinFormsApp2_Task2\\WinFormsApp2_Task2.csproj|solutionrelative:winformsapp2_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFD793B-6828-4840-B0B3-3F2DAB09B384}|WinFormsApp2_Task2\\WinFormsApp2_Task2.csproj|d:\\source\\repos\\labs\\topic 4. program execution management\\lab work \u21164.2 \u043C\u0430\u0441\u0438\u0432\u0438.web forms\\winformsapp2_task2\\winformsapp2_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECFD793B-6828-4840-B0B3-3F2DAB09B384}|WinFormsApp2_Task2\\WinFormsApp2_Task2.csproj|solutionrelative:winformsapp2_task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 4. Program execution management\\Lab Work \u21164.2 \u041C\u0430\u0441\u0438\u0432\u0438.Web Forms\\WinFormsApp2_Task2\\WinFormsApp2_Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2_Task2\\Form1.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 4. Program execution management\\Lab Work \u21164.2 \u041C\u0430\u0441\u0438\u0432\u0438.Web Forms\\WinFormsApp2_Task2\\WinFormsApp2_Task2\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp2_Task2\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:18:09.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 4. Program execution management\\Lab Work \u21164.2 \u041C\u0430\u0441\u0438\u0432\u0438.Web Forms\\WinFormsApp2_Task2\\WinFormsApp2_Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2_Task2\\Form1.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 4. Program execution management\\Lab Work \u21164.2 \u041C\u0430\u0441\u0438\u0432\u0438.Web Forms\\WinFormsApp2_Task2\\WinFormsApp2_Task2\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp2_Task2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:15:34.177Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
