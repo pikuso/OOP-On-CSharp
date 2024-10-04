@@ -1,0 +1,14 @@
+D:\практика ооп\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.exe
+D:\практика ооп\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.deps.json
+D:\практика ооп\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.runtimeconfig.json
+D:\практика ооп\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.dll
+D:\практика ооп\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.pdb
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.AssemblyInfoInputs.cache
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.AssemblyInfo.cs
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.csproj.CoreCompileInputs.cache
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.dll
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\refint\Lab7_Var9.dll
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.pdb
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.genruntimeconfig.cache
+D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\ref\Lab7_Var9.dll

@@ -1,0 +1,14 @@
+D:\практика ооп\Example1\Example1\bin\Debug\net8.0\Example1.exe
+D:\практика ооп\Example1\Example1\bin\Debug\net8.0\Example1.deps.json
+D:\практика ооп\Example1\Example1\bin\Debug\net8.0\Example1.runtimeconfig.json
+D:\практика ооп\Example1\Example1\bin\Debug\net8.0\Example1.dll
+D:\практика ооп\Example1\Example1\bin\Debug\net8.0\Example1.pdb
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.AssemblyInfoInputs.cache
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.AssemblyInfo.cs
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.csproj.CoreCompileInputs.cache
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.dll
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\refint\Example1.dll
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.pdb
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\Example1.genruntimeconfig.cache
+D:\практика ооп\Example1\Example1\obj\Debug\net8.0\ref\Example1.dll
