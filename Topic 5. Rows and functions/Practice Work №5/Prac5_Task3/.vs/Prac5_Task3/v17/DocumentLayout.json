@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Practice Work \u21165\\Prac5_Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED31E4-2D17-4141-BD78-DDDB4FCB9921}|Prac5_Task3\\Prac5_Task3.csproj|d:\\source\\repos\\labs\\topic 5. rows and functions\\practice work \u21165\\prac5_task3\\prac5_task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AED31E4-2D17-4141-BD78-DDDB4FCB9921}|Prac5_Task3\\Prac5_Task3.csproj|solutionrelative:prac5_task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Practice Work \u21165\\Prac5_Task3\\Prac5_Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Prac5_Task3\\Program.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Practice Work \u21165\\Prac5_Task3\\Prac5_Task3\\Program.cs",
+              "RelativeToolTip": "Prac5_Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:54:21.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

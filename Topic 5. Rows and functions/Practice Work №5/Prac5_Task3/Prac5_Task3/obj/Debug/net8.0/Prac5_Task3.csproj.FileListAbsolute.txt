@@ -1,0 +1,30 @@
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.exe
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.deps.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.runtimeconfig.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.pdb
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.sourcelink.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\refint\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.pdb
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\ref\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.exe
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.deps.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.runtimeconfig.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\bin\Debug\net8.0\Prac5_Task3.pdb
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.sourcelink.json
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\refint\Prac5_Task3.dll
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.pdb
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\Prac5_Task3.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 5. Rows and functions\Practice Work №5\Prac5_Task3\Prac5_Task3\obj\Debug\net8.0\ref\Prac5_Task3.dll
