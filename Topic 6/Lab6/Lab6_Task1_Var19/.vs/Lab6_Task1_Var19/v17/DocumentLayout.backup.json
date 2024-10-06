@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 6\\Lab6\\Lab6_Task1_Var19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AABA3E-2491-4838-A923-711957D1956D}|Lab6_Task1_Var19\\Lab6_Task1_Var19.csproj|d:\\source\\repos\\labs\\topic 6\\lab6\\lab6_task1_var19\\lab6_task1_var19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AABA3E-2491-4838-A923-711957D1956D}|Lab6_Task1_Var19\\Lab6_Task1_Var19.csproj|solutionrelative:lab6_task1_var19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 6\\Lab6\\Lab6_Task1_Var19\\Lab6_Task1_Var19\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6_Task1_Var19\\Program.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 6\\Lab6\\Lab6_Task1_Var19\\Lab6_Task1_Var19\\Program.cs",
+              "RelativeToolTip": "Lab6_Task1_Var19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:26:15.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
