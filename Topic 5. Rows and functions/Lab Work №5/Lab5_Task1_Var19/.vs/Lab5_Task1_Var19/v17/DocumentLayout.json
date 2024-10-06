@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Lab Work \u21165\\Lab5_Task1_Var19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{704B75EF-A653-4E8A-BB81-ABA612DCAA30}|Lab5_Task1_Var19\\Lab5_Task1_Var19.csproj|d:\\source\\repos\\labs\\topic 5. rows and functions\\lab work \u21165\\lab5_task1_var19\\lab5_task1_var19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704B75EF-A653-4E8A-BB81-ABA612DCAA30}|Lab5_Task1_Var19\\Lab5_Task1_Var19.csproj|solutionrelative:lab5_task1_var19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Lab Work \u21165\\Lab5_Task1_Var19\\Lab5_Task1_Var19\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5_Task1_Var19\\Program.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 5. Rows and functions\\Lab Work \u21165\\Lab5_Task1_Var19\\Lab5_Task1_Var19\\Program.cs",
+              "RelativeToolTip": "Lab5_Task1_Var19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:35:52.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
