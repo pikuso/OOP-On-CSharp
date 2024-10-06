@@ -1,0 +1,15 @@
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\bin\Debug\net8.0\ComputerHierarch.exe
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\bin\Debug\net8.0\ComputerHierarch.deps.json
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\bin\Debug\net8.0\ComputerHierarch.runtimeconfig.json
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\bin\Debug\net8.0\ComputerHierarch.dll
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\bin\Debug\net8.0\ComputerHierarch.pdb
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.sourcelink.json
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.dll
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\refint\ComputerHierarch.dll
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.pdb
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ComputerHierarch.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 8\Lab8\ComputerHierarch\ComputerHierarch\obj\Debug\net8.0\ref\ComputerHierarch.dll
