@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\classdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\lab7_var9\\lab7_var9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,32 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClassDiagram.cd",
-              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\ClassDiagram.cd",
-              "RelativeDocumentMoniker": "Lab7_Var9\\ClassDiagram.cd",
-              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\ClassDiagram.cd",
-              "RelativeToolTip": "Lab7_Var9\\ClassDiagram.cd",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab7_Var9\\ClassDiagram1.cd",
+              "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab7_Var9\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-10-03T11:02:08.331Z",
+              "WhenOpened": "2024-10-03T11:23:37.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Toy.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Toy.cs",
               "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
               "RelativeToolTip": "Lab7_Var9\\Toy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T10:50:38.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Inventory.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Inventory.cs",
@@ -84,33 +84,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DairyProduct.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\DairyProduct.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\DairyProduct.cs",
               "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\DairyProduct.cs",
               "RelativeToolTip": "Lab7_Var9\\DairyProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T10:51:01.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Product.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Product.cs",
               "ToolTip": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Product.cs",
               "RelativeToolTip": "Lab7_Var9\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T10:50:49.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Goods.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Goods.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Goods.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043E\u043E\u043F\\Lab7_Var9\\Lab7_Var9\\Program.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Program.cs",

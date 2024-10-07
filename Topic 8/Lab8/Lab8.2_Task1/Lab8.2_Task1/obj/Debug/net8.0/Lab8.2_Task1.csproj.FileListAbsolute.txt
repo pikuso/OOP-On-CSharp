@@ -1,0 +1,15 @@
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\bin\Debug\net8.0\Lab8.2_Task1.exe
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\bin\Debug\net8.0\Lab8.2_Task1.deps.json
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\bin\Debug\net8.0\Lab8.2_Task1.runtimeconfig.json
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\bin\Debug\net8.0\Lab8.2_Task1.dll
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\bin\Debug\net8.0\Lab8.2_Task1.pdb
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.sourcelink.json
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.dll
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\refint\Lab8.2_Task1.dll
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.pdb
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\Lab8.2_Task1.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 8\Lab8\Lab8.2_Task1\Lab8.2_Task1\obj\Debug\net8.0\ref\Lab8.2_Task1.dll
