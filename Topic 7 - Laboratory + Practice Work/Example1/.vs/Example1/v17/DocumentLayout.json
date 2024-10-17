@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\example1\\example1\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB91C966-3BC8-4FBC-B7C0-C8CE5DB38FAF}|Example1\\Example1.csproj|solutionrelative:example1\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mammal.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\Mammal.cs",
               "RelativeDocumentMoniker": "Example1\\Mammal.cs",
@@ -53,23 +53,22 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Example1\\ClassDiagram1.cd",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\ClassDiagram1.cd",
               "RelativeToolTip": "Example1\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-10-03T11:00:56.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T11:00:56.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Breed.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\Breed.cs",
               "RelativeDocumentMoniker": "Example1\\Breed.cs",
@@ -82,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dog.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\Dog.cs",
               "RelativeDocumentMoniker": "Example1\\Dog.cs",
@@ -95,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Example1\\Example1\\Program.cs",
               "RelativeDocumentMoniker": "Example1\\Program.cs",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "Example1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T09:43:10.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T09:43:10.773Z"
             }
           ]
         }

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +11,24 @@
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\dairyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|d:\\source\\repos\\labs\\topic 7 - laboratory \u002B practice work\\lab7_var9\\lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7EEBAF-676B-49B4-9BCB-462D05C25105}|Lab7_Var9\\Lab7_Var9.csproj|solutionrelative:lab7_var9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,34 +38,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
+              "RelativeDocumentMoniker": "Lab7_Var9\\Toy.cs",
+              "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
+              "RelativeToolTip": "Lab7_Var9\\Toy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:50:38.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Lab7_Var9\\ClassDiagram1.cd",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\ClassDiagram1.cd",
               "RelativeToolTip": "Lab7_Var9\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-10-03T11:23:37.004Z"
+              "WhenOpened": "2024-10-03T11:23:37.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Toy.cs",
-              "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
-              "RelativeDocumentMoniker": "Lab7_Var9\\Toy.cs",
-              "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Toy.cs",
-              "RelativeToolTip": "Lab7_Var9\\Toy.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:50:38.293Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -75,55 +79,59 @@
               "RelativeDocumentMoniker": "Lab7_Var9\\Inventory.cs",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Inventory.cs",
               "RelativeToolTip": "Lab7_Var9\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:52:20.679Z"
+              "WhenOpened": "2024-10-03T10:52:20.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DairyProduct.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\DairyProduct.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\DairyProduct.cs",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\DairyProduct.cs",
               "RelativeToolTip": "Lab7_Var9\\DairyProduct.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:51:01.269Z"
+              "WhenOpened": "2024-10-03T10:51:01.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Product.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Product.cs",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Product.cs",
               "RelativeToolTip": "Lab7_Var9\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:50:49.186Z"
+              "WhenOpened": "2024-10-03T10:50:49.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Goods.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Goods.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Goods.cs",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Goods.cs",
               "RelativeToolTip": "Lab7_Var9\\Goods.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:50:21.595Z"
+              "WhenOpened": "2024-10-03T10:50:21.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Program.cs",
               "RelativeDocumentMoniker": "Lab7_Var9\\Program.cs",
               "ToolTip": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory \u002B Practice Work\\Lab7_Var9\\Lab7_Var9\\Program.cs",
               "RelativeToolTip": "Lab7_Var9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T10:49:55.419Z",
               "EditorCaption": ""

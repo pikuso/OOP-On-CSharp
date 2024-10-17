@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\практика ооп\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj": {}
+    "D:\\source\\repos\\Labs\\Topic 7 - Laboratory + Practice Work\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj": {}
   },
   "projects": {
-    "D:\\практика ооп\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj": {
+    "D:\\source\\repos\\Labs\\Topic 7 - Laboratory + Practice Work\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\практика ооп\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory + Practice Work\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj",
         "projectName": "Lab7_Var9",
-        "projectPath": "D:\\практика ооп\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory + Practice Work\\Lab7_Var9\\Lab7_Var9\\Lab7_Var9.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "D:\\практика ооп\\Lab7_Var9\\Lab7_Var9\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\Topic 7 - Laboratory + Practice Work\\Lab7_Var9\\Lab7_Var9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

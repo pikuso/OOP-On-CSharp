@@ -12,3 +12,18 @@ D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\refint\Lab7_Var9
 D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.pdb
 D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.genruntimeconfig.cache
 D:\практика ооп\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\ref\Lab7_Var9.dll
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.exe
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.deps.json
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.runtimeconfig.json
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.dll
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\bin\Debug\net8.0\Lab7_Var9.pdb
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.sourcelink.json
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.dll
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\refint\Lab7_Var9.dll
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.pdb
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\Lab7_Var9.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 7 - Laboratory + Practice Work\Lab7_Var9\Lab7_Var9\obj\Debug\net8.0\ref\Lab7_Var9.dll
