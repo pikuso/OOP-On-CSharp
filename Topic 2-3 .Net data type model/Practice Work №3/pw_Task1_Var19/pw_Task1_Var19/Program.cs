@@ -1,4 +1,4 @@
-﻿//Завдання 1 Варіант 19: Реалізувати функцію піднесення до кубу різниці двох цілих чисел
+﻿//Завдання 1: Піднесення до кубу різниці двох цілих чисел
 using System;
 
 class Program
@@ -6,9 +6,18 @@ class Program
     static void Main()
     {
         Console.WriteLine("Enter the first integer:");
-        int num1 = Convert.ToInt32(Console.ReadLine());
+        if (!int.TryParse(Console.ReadLine(), out int num1))
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+            return;
+        }
+
         Console.WriteLine("Enter the second integer:");
-        int num2 = Convert.ToInt32(Console.ReadLine());
+        if (!int.TryParse(Console.ReadLine(), out int num2))
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+            return;
+        }
 
         int result = CubeDifference(num1, num2);
         Console.WriteLine($"The cube of the difference between {num1} and {num2} is: {result}");
@@ -17,6 +26,6 @@ class Program
     static int CubeDifference(int a, int b)
     {
         int difference = a - b;
-        return difference * difference * difference;
+        return difference * difference * difference; 
     }
 }

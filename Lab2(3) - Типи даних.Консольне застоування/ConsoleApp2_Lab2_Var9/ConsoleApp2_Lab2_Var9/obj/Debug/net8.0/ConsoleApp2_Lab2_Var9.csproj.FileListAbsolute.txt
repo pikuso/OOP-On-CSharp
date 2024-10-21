@@ -1,0 +1,15 @@
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\bin\Debug\net8.0\ConsoleApp2_Lab2_Var9.exe
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\bin\Debug\net8.0\ConsoleApp2_Lab2_Var9.deps.json
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\bin\Debug\net8.0\ConsoleApp2_Lab2_Var9.runtimeconfig.json
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\bin\Debug\net8.0\ConsoleApp2_Lab2_Var9.dll
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\bin\Debug\net8.0\ConsoleApp2_Lab2_Var9.pdb
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.AssemblyInfo.cs
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.sourcelink.json
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.dll
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\refint\ConsoleApp2_Lab2_Var9.dll
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.pdb
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ConsoleApp2_Lab2_Var9.genruntimeconfig.cache
+D:\source\repos\Labs\Lab2\ConsoleApp2_Lab2_Var9\ConsoleApp2_Lab2_Var9\obj\Debug\net8.0\ref\ConsoleApp2_Lab2_Var9.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormsApp3_0_Task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7c1761eeda87eaec785a971d323890b117c2bd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf8bd35595e488f65fbe4b00c3b9af4f0f564849")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormsApp3_0_Task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormsApp3_0_Task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

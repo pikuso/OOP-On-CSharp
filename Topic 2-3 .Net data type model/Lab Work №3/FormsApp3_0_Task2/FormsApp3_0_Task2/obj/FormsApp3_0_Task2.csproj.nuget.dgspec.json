@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Labs_topic2+3ConsoleApp3_0\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj": {}
+    "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Lab Work №3\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Labs_topic2+3ConsoleApp3_0\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj": {
+    "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Lab Work №3\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Labs_topic2+3ConsoleApp3_0\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Lab Work №3\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj",
         "projectName": "FormsApp3_0_Task2",
-        "projectPath": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Labs_topic2+3ConsoleApp3_0\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Lab Work №3\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\FormsApp3_0_Task2.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Labs_topic2+3ConsoleApp3_0\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\Topic 2-3 .Net data type model\\Lab Work №3\\FormsApp3_0_Task2\\FormsApp3_0_Task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
