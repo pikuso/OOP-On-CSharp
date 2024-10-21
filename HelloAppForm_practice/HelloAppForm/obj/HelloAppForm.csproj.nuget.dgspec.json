@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gurig\\source\\repos\\HelloAppForm\\HelloAppForm\\HelloAppForm.csproj": {}
+    "D:\\source\\repos\\Labs\\HelloAppForm_practice\\HelloAppForm\\HelloAppForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gurig\\source\\repos\\HelloAppForm\\HelloAppForm\\HelloAppForm.csproj": {
+    "D:\\source\\repos\\Labs\\HelloAppForm_practice\\HelloAppForm\\HelloAppForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gurig\\source\\repos\\HelloAppForm\\HelloAppForm\\HelloAppForm.csproj",
+        "projectUniqueName": "D:\\source\\repos\\Labs\\HelloAppForm_practice\\HelloAppForm\\HelloAppForm.csproj",
         "projectName": "HelloAppForm",
-        "projectPath": "C:\\Users\\gurig\\source\\repos\\HelloAppForm\\HelloAppForm\\HelloAppForm.csproj",
+        "projectPath": "D:\\source\\repos\\Labs\\HelloAppForm_practice\\HelloAppForm\\HelloAppForm.csproj",
         "packagesPath": "C:\\Users\\gurig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gurig\\source\\repos\\HelloAppForm\\HelloAppForm\\obj\\",
+        "outputPath": "D:\\source\\repos\\Labs\\HelloAppForm_practice\\HelloAppForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

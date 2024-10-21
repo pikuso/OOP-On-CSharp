@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloAppForm
-build_property.ProjectDir = C:\Users\gurig\source\repos\HelloAppForm\HelloAppForm\
+build_property.ProjectDir = D:\source\repos\Labs\HelloAppForm_practice\HelloAppForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

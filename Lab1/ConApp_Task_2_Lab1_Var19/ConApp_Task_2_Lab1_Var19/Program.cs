@@ -1,29 +1,37 @@
 ﻿using System;
 
-class Program
+namespace SimpleSumOfDigitsApp
 {
-    //Var 9
-    static void Main()
+    class Program
     {
-        Console.Write("Enter a four digit positive number: ");
-        string input = Console.ReadLine();
-
-        if (input.Length == 4 && int.TryParse(input, out int number) && number > 0)
+        static void Main(string[] args)
         {
-            int firstDigit = int.Parse(input[0].ToString());
-            int secondDigit = int.Parse(input[1].ToString());
-            int thirdDigit = int.Parse(input[2].ToString());
-            int fourthDigit = int.Parse(input[3].ToString());
+            Console.Write("Enter a four digit number: ");
+            string input = Console.ReadLine();
 
-            int sumFirstTwo = firstDigit + secondDigit;
-            int sumLastTwo = thirdDigit + fourthDigit;
+            if (input.Length == 4 && int.TryParse(input, out int number))
+            {
+                int firstSum = int.Parse(input[0].ToString()) + int.Parse(input[1].ToString());
 
-            bool result = sumFirstTwo == sumLastTwo;
-            Console.WriteLine(result);
-        }
-        else
-        {
-            Console.WriteLine("Error: Please enter a valid positive four-digit number.");
+                int lastSum = int.Parse(input[2].ToString()) + int.Parse(input[3].ToString());
+
+                if (firstSum == lastSum)
+                {
+                    Console.WriteLine("True: Equal amounts");
+                }
+                else
+                {
+                    Console.WriteLine("False: No equal amounts");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Enter a valid number.");
+            }
+
+            Console.ReadKey();
         }
     }
 }
+
+//чи дорівнює сума двох перших цифр даного чотиризначного числа сумі двох його останніх цифр.

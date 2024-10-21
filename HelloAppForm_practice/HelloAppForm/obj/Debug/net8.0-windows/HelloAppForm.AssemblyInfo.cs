@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloAppForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29447c3a773b628cfb958b78e2ed61966968f9b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloAppForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloAppForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
