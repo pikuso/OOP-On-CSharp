@@ -1,0 +1,15 @@
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\bin\Debug\net8.0\Lab4_2_Task2.exe
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\bin\Debug\net8.0\Lab4_2_Task2.deps.json
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\bin\Debug\net8.0\Lab4_2_Task2.runtimeconfig.json
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\bin\Debug\net8.0\Lab4_2_Task2.dll
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\bin\Debug\net8.0\Lab4_2_Task2.pdb
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.AssemblyInfoInputs.cache
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.AssemblyInfo.cs
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.csproj.CoreCompileInputs.cache
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.sourcelink.json
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.dll
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\refint\Lab4_2_Task2.dll
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.pdb
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\Lab4_2_Task2.genruntimeconfig.cache
+D:\source\repos\Labs\Topic 4. Program execution management\Lab Work №4.2 Масиви. Консоль\Lab4_2_Task2\Lab4_2_Task2\obj\Debug\net8.0\ref\Lab4_2_Task2.dll

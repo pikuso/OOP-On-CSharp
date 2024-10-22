@@ -1,54 +1,58 @@
 ﻿using System;
-//var 19
+
 class Program
 {
     static void Main()
     {
-        Console.Write("Введіть значення n: ");
-        int n = int.Parse(Console.ReadLine());
-        Console.Write("Введіть значення k: ");
-        int k = int.Parse(Console.ReadLine());
+        Console.WriteLine("Enter the value of n (integer):");
+        if (!int.TryParse(Console.ReadLine(), out int n))
+        {
+            Console.WriteLine("Invalid input. Please enter an integer.");
+            return;
+        }
 
-        int size = n; 
-        double[] Z = new double[size];
+        Console.WriteLine("Введіть значення k (ціле число):");
+        if (!int.TryParse(Console.ReadLine(), out int k))
+        {
+            Console.WriteLine("Invalid input. Please enter an integer.");
+            return;
+        }
+        int arraySize = 10;
+        double[] Z = new double[arraySize];
 
-        for (int i = 0; i < size; i++)
+        // Заповнення масиву
+        for (int i = 0; i < arraySize; i++)
         {
             Z[i] = n * f(k) + Math.Sin(k);
+            Console.WriteLine($"Z[{i}] = {Z[i]}");
+            k++; 
         }
 
-        Console.WriteLine("Масив Z:");
-        foreach (var value in Z)
-        {
-            Console.Write(value + " ");
-        }
-        Console.WriteLine();
-
+        // Обчислення добутку елементів, для яких |Z[i]| > 5
         double product = 1;
-        bool found = false;
+        bool hasValidElements = false; 
 
         foreach (var value in Z)
         {
             if (Math.Abs(value) > 5)
             {
                 product *= value;
-                found = true;
+                hasValidElements = true; 
             }
         }
 
-        if (found)
+        if (hasValidElements)
         {
-            Console.WriteLine($"Добуток елементів, для яких |Zi| > 5: {product}");
+            Console.WriteLine($"The product of elements for which |Z[i]| > 5:: {product}");
         }
         else
         {
-            Console.WriteLine("Немає елементів, які задовольняють умову |Zi| > 5.");
+            Console.WriteLine("No element found for which |Z[i]| > 5.");
         }
     }
-
-    static int f(int k)
+    // Функція f(k)
+    static double f(int k)
     {
-      
-        return k * k;
+        return 13.4 * Math.Cos(Math.Abs(k)) * Math.Sin(Math.Pow(k, 2) - 2.25);
     }
 }

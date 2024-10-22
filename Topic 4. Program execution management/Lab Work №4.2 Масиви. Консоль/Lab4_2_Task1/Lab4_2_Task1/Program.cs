@@ -14,7 +14,7 @@ class Program
             array[i] = random.Next(-10, 11);
         }
 
-        Console.WriteLine("Згенерований масив:");
+        Console.WriteLine("Generated array:");
         foreach (var num in array)
         {
             Console.Write(num + " ");
@@ -37,12 +37,12 @@ class Program
 
         if (count == 3)
         {
-            Console.WriteLine($"Добуток перших трьох додатних елементів: {product}");
-            Console.WriteLine($"Індекси цих елементів: {indices[0]}, {indices[1]}, {indices[2]}");
+            Console.WriteLine($"The product of the first three positive elements: {product}");
+            Console.WriteLine($"Indexes of these elements: {indices[0]}, {indices[1]}, {indices[2]}");
         }
         else
         {
-            Console.WriteLine("Менше трьох додатних елементів в масиві.");
+            Console.WriteLine("Fewer than three positive elements in the array.");
         }
     }
 }

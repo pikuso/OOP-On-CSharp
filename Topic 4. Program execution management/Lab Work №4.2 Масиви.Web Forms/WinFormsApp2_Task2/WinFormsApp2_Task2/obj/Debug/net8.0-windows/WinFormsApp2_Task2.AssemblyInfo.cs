@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp2_Task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b20c3497feaac2409bdd21f4ec2c570926b9e2e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9006005966ae8c5f6ad9e0c4e15b1139c3ee85")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp2_Task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp2_Task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
